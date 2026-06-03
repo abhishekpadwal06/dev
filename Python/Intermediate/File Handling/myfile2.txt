@@ -1,0 +1,3 @@
+Hey Lewis, wassup?
+How are you man?
+I am using with method, hence there's no need to use f.close

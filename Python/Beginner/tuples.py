@@ -1,0 +1,11 @@
+names = ("Lewis", "Alex", "Lando", "Charles")
+print(names)
+print(names[1])
+print(names[-2])
+print(names.index("Lewis"))
+print(names[0:2])
+print(sorted(names))
+print(names)
+
+newNames = names + ("Max", "George", "Kimi")
+print(newNames)
